@@ -62,7 +62,7 @@ The project consists of the following key files:
 2. **Compilation**:
    Use the following commands to compile the program:
    ```bash
-   g++ server.cpp -lpthread -o client
+   g++ server.cpp -lpthread -o server
    ```
    ```bash
    g++ client.cpp -lpthread -o client
